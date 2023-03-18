@@ -131,6 +131,21 @@ if(e.shiftKey && keyPressed == '77')
 		new_image('cloud.jpg'); 
 		console.log("c");
 	}
+	if(keyPressed == '90')
+	{
+		new_image('bloque secreto.png'); 
+		console.log("z");
+	}	if(keyPressed == '88')
+	{
+		new_image('fuego.gif'); 
+		console.log("x");
+	}
+	if(keyPressed == '80')
+	{
+		new_image('pollo.png'); 
+		console.log("p");
+	}
+	
 	
 }
 function up()
